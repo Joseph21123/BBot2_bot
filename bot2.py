@@ -148,7 +148,7 @@ async def log_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-    application = Application.builder().token("7777974311:AAEeEkhcjo34GJkIJptPsFeSW1-ZWz9sNKk").build()
+    application = Application.builder().token("7777974311:AAEKdix-f776zmWy9H8z1hA0IExqSDfqf80").build()
 
     application.add_handler(CommandHandler("statkarma", show_stats))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, log_message))
