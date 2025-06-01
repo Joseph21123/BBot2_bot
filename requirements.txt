@@ -28,7 +28,7 @@ pymorphy3==2.0.3
 pymorphy3-dicts-ru==2.4.417150.4580142
 requests==2.32.3
 rich==14.0.0
-ru-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.7.0/ru_core_news_sm-3.7.0-py3-none-any.whl#sha256=4b1c291c9b8991b708dadbf1b59f0fdaf7e70ca25e94df7fd3d523c4d5049754
+
 setuptools==80.9.0
 shellingham==1.5.4
 smart-open==7.1.0
